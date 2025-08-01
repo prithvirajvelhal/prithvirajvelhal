@@ -1,6 +1,6 @@
 # Hi there, I'm Prithviraj Velhal 👋
 
-I am currently a student at D.Y. Patil School of Engineering and Research (DYP STR),  
+I am currently a student at D.Y. Patil School of Technology and Research (DYP STR),  
 pursuing a degree in Computer Science.
 
 ## About Me
